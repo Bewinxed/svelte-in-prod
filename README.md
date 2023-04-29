@@ -1,4 +1,4 @@
-# svelte-in-prod
+# Svelte-In-Prod 🧑‍🔬
 A collection of snippets for using sveltekit for actual high-performance robust production apps.
 
 # SvelteKit SSE Boilerplate
