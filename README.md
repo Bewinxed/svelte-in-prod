@@ -41,7 +41,7 @@ Remember to install the event-source-polyfill package if you want to use the boi
 npm install event-source-polyfill
 ```
 
-License
+## License
 Ask me nicely :^)
 
 Copyright (c) 2023 Bewinxed
